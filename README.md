@@ -1,6 +1,6 @@
 # Resumo
 
-Projeto de um Shopping app utilizando a biblioteca de estilo Cupertino, com o objetivo de aplicar os conceitos inicais de layout e navegação.
+Projeto de um Shopping app utilizando a biblioteca de estilo Cupertino, com o objetivo de aplicar os conceitos principais de layout e navegação entre telas de uma aplicação Flutter.
 
 # Referências:
 
